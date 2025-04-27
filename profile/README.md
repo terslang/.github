@@ -4,6 +4,6 @@ Ters is committed to the principles of Libre, Free and Open Source Software. Eve
 ## Projects
 - [https://github.com/terslang/LocalTranslate](LocalTranslate)
 
-## What is Ters?
+## What is "ters"?
 The opposite of verbos.
 
